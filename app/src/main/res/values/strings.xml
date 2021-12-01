@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cookbook</string>
+    <string name="edit_message">Enter your email</string>
+    <string name="button_send">Send</string>
+    <string name="pass_auth">Enter your password</string>
+    <string name="button_sign">Sign Up</string>
+    <string name="sign_email">Enter your email</string>
+    <string name="sign_pass">Enter your password</string>
+    <string name="button_add">Sign Up</string>
+    <string name="about">
+        Cookbook app is a recipe application running on the android platform.
+         The application runs on android devices above version 5.0. Developed using Kotlin,
+          the application utilizes the latest material design techniques.
+    </string>
+    <string name="description">
+        Users need to sign up using email and password so as to use the application,
+the user then logins and can be able to create, read, update and or delete menu items. The users while creating a recipe
+needs to input all the steps and ingredients and upload photos
+    </string>
+</resources>

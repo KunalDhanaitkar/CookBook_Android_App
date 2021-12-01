@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324728292002",
+    "project_id": "cookbook-8350f",
+    "storage_bucket": "cookbook-8350f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324728292002:android:5c2de9fa9d792b8b90cdfb",
+        "android_client_info": {
+          "package_name": "com.example.cookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324728292002-lu5ls9pgf4611ecq7ed3qn9n13ue6iam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fxZGq1HDlyNaUA4ZGyTvGRv9_3PlMu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324728292002-lu5ls9pgf4611ecq7ed3qn9n13ue6iam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
